@@ -2,7 +2,7 @@ h1 {
     colour: #778899;
     text-align: center;
 }
-<style>
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -12,4 +12,4 @@ ul {
 li {
     display: inline;
 }
-</style>
+
