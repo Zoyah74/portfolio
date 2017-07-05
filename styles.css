@@ -9,18 +9,15 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 li {
-    display: inline;
+    float: left;
 }
 
-div {
-    background-color: #484848;
-    width: 600px;
-    border: 25px solid #484848;
-    padding: 25px;
-    margin: 25px;
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
 }
-<div></div>
-
