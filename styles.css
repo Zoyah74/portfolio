@@ -1,5 +1,5 @@
 h1 {
-    colour: #778899;
+    color: #lightslategrey;
     text-align: center;
     margin: 10;
     padding: 10;
@@ -16,10 +16,11 @@ li {
 }
 
 div {
-    background-color: green;
-    width: 300px;
-    border: 25px solid green;
+    background-color: #484848;
+    width: 600px;
+    border: 25px solid #484848;
     padding: 25px;
     margin: 25px;
 }
 <div></div>
+
