@@ -1,8 +1,13 @@
 h1 {
-    color: #lightslategrey;
+    color: #3b3a30;
     text-align: center;
     margin: 10;
     padding: 10;
+}
+
+h2 {
+  text-align: center;
+  color: #3b3a30;
 }
 
 ul {
@@ -14,11 +19,15 @@ ul {
 
 li {
     float: left;
+    width: 110%;
 }
 
 li a {
     display: block;
-    width: 300;
-    padding: 12px;
-    background-color: #dddddd;
+    padding: 8px;
+    background-color: #c5d5c5;
 }
+body {
+    background-color: #e3e0cc;
+}
+
