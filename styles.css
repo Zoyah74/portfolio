@@ -18,6 +18,7 @@ li {
 
 li a {
     display: block;
+    width: 300;
     padding: 12px;
     background-color: #dddddd;
 }
