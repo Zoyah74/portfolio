@@ -90,7 +90,15 @@ body {
   font-family:"Didot", Times, serif;
   position: absolute;
   top: 715px;
-  left: 590px;
+  left: 608px;
+}
+#dislikes {
+  color:black;
+  font-size: 18px;
+  font-family:"Didot", Times, serif;
+  position: absolute;
+  top: 715px;
+  left: 948px;
 }
 #likesdes {
   color: #924053;
@@ -98,4 +106,96 @@ body {
   margin-left: 500px;
   margin-right: 480px;
   margin-top: -108px;
+}
+#dislikesdes {
+  color: #924053;
+  font-size: 16px;
+  margin-left: 870px;
+  margin-right: 140px;
+  margin-top: -142px;
+}
+#contact {
+  font-size: 25px;
+  font-family: "Didot", Times, serif;
+  position: absolute;
+  top: 1124px;
+  left:590px;
+}
+#contactline {
+  color:#924053;
+  width: 80%;
+  text-align: center;
+}
+#contactline2 {
+  color:#924053;
+  width: 80%;
+  text-align: center;
+}
+#email {
+  width: 40px;
+  height: auto;
+  position:absolute;
+  top: 1206px;
+  left: 150px;
+}
+#gmail {
+  color: #924053;
+  font-size: 16px;
+  font-family: "Didot", Times, serif;
+  margin-left: 195px;
+  margin-right: 140px;
+  margin-top: 20px;
+}
+#phone {
+  width: 25px;
+  height: auto;
+  position:absolute;
+  top: 1206px;
+  left: 450px;
+}
+#phonenumber {
+  color: #924053;
+  font-size: 16px;
+  font-family: "Didot", Times, serif;
+  margin-left: 495px;
+  margin-right: 140px;
+  margin-top: -40px;
+}
+#facebook {
+  width: 35px;
+  height: auto;
+  position:absolute;
+  top: 1206px;
+  left: 900px;
+}
+#linkedin {
+  width: 35px;
+  height: auto;
+  position:absolute;
+  top: 1206px;
+  left: 950px;
+}
+#instagram {
+  width: 35px;
+  height: auto;
+  position:absolute;
+  top: 1206px;
+  left: 1000px;
+}
+#portfolio {
+  font-size: 25px;
+  font-family: "Didot", Times, serif;
+  position: absolute;
+  top: 907px;
+  left:590px;
+}
+#portfolioline {
+  color:#924053;
+  width: 80%;
+  text-align: center;
+}
+#portfolioline2 {
+  color:#924053;
+  width: 80%;
+  text-align: center;
 }
